@@ -1,10 +1,10 @@
 {
   "name": "history",
-  "version": "4.10.1",
+  "version": "4.7.2",
   "description": "Manage session history with JavaScript",
   "repository": "ReactTraining/history",
   "license": "MIT",
-  "author": "Michael Jackson",
+  "author": "Michael Jackson / refactor",
   "main": "index.js",
   "module": "esm/history.js",
   "unpkg": "umd/history.js",
