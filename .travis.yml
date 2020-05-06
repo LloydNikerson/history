@@ -20,7 +20,7 @@ jobs:
       provider: npm
       skip_cleanup: true
       tag: "$NPM_TAG"
-      email: npm@mjackson.me
+      email: "$NPM_EMAIL"
       api_key: "$NPM_TOKEN"
       on:
         tags: true
